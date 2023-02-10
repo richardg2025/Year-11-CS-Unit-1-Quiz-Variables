@@ -5,8 +5,6 @@ Ensure that you read all instructions carefully. Do not include any additional v
 
 Good luck, have fun! :)
 
-Good luck, have fun! :)
-
 Inside the main method …
 1. Declare and initialize a variable of type int called age to a value of 16.
 2. Declare and initialize a variable of type String called name to a value of Taylor.
