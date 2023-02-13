@@ -1,2 +1,33 @@
-package PACKAGE_NAME;public class Variables {
+public class Variables {
+
+    public static void main(String[] args) {
+
+        // 1.
+
+        // 2.
+
+        // 3.
+
+        // 4.
+
+        // 5.
+
+        // 6.
+
+        // 7.
+
+        // 8.
+
+        // 9.
+
+        // 10.
+
+        // 11.
+
+        // 12.
+        /**
+         * [type answer here]
+         */
+
+    }
 }
