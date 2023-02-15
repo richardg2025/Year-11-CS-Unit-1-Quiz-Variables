@@ -16,4 +16,4 @@ Inside the main method …
 9. Increment the variable letter using the postfix increment operator.
 10. Print out the variable letter.
 11. Cast the variable letter to an integer and print it out. Do this in a single statement.
-12. Explain what is happening in questions 10 - 14. Focus your explanation on character data types and integers. 
+12. Explain what is happening in questions 6 - 11. Focus your explanation on character data types and integers. 
